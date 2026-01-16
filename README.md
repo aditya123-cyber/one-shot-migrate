@@ -1,5 +1,5 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/<your-username>/one-shot-migrate)](https://github.com/<your-username>/one-shot-migrate/releases)
+[![Latest Release](https://img.shields.io/github/v/release/stevekinzey/one-shot-migrate)](https://github.com/stevekinzey/one-shot-migrate/releases)
 
 # one-shot-migrate
 # one-shot-migrate (v1.1.1)
