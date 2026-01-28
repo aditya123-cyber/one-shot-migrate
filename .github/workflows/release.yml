@@ -16,8 +16,9 @@ jobs:
         run: |
           set -e
           VERSION="${GITHUB_REF_NAME}"
-          ZIP="one-shot-migrate-${VERSION}.zip"
-          mkdir -p dist
+            mkdir -p temp/one-shot-migrate
+                        rsync -av --exclude='.git' --exclude='.github' --exclude='temp' --exclude='dist' . temp/one-shot-migrate/
+                                    cd temp && zip -r "../dist/${ZIP}" one-shot-migrate && cd ..mkdir -p dist
           zip -r "dist/${ZIP}" one-shot-migrate
 
       - name: Create GitHub Release and upload asset
